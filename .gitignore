@@ -3,3 +3,7 @@ week3/terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/3.39.0/
 week3/terraform/.terraform.lock.hcl
 week3/terraform/terraform.tfstate
 .vscode/
+week3/Testing/terraform-aws-webserver/examples/webserver/terraform.tfstate.backup
+week3/Testing/terraform-aws-webserver/examples/webserver/terraform.tfstate
+*.exe
+week3/Testing/terraform-aws-webserver/examples/webserver/.terraform.lock.hcl
