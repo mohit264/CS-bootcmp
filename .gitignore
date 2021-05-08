@@ -2,3 +2,4 @@ week3/terraform/.terraform/modules/modules.json
 week3/terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/3.39.0/windows_amd64/terraform-provider-aws_v3.39.0_x5.exe
 week3/terraform/.terraform.lock.hcl
 week3/terraform/terraform.tfstate
+.vscode/
