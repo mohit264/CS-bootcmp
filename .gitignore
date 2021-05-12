@@ -7,3 +7,7 @@ week3/Testing/terraform-aws-webserver/examples/webserver/terraform.tfstate.backu
 week3/Testing/terraform-aws-webserver/examples/webserver/terraform.tfstate
 *.exe
 week3/Testing/terraform-aws-webserver/examples/webserver/.terraform.lock.hcl
+week6/Python-lambda-function/.serverless/cloudformation-template-create-stack.json
+week6/Python-lambda-function/.serverless/cloudformation-template-update-stack.json
+week6/Python-lambda-function/.serverless/python-lambda-function.zip
+week6/Python-lambda-function/.serverless/serverless-state.json

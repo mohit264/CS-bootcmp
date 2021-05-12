@@ -1,4 +1,4 @@
-## Deploying Terraform via GitHub Actions
+### Deploying Terraform via GitHub Actions
 1. az login
 2. Post login copy subscription id
 3. Create Service Principal to authenticate to terraform
